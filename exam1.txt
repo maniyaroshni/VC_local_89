@@ -1,0 +1,5 @@
+set b 
+
+create a folder name vc_local_89, iniclidie in as a git repository demonstrate the different between working directory and the staging area clone a repository into pc_local_89 make the local changes and push the into vc_web_89
+
+create a new two branches (admin , user) in vc_local_89 ,switch to the admin add new file and save our continue switch to the user make a changes to the any of the file in the any to the file which in your folder vc_local_89
